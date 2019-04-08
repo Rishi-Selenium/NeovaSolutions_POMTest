@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NeovaSolution_TestSuite" duration-ms="33016" started-at="2019-04-08T10:15:23Z" finished-at="2019-04-08T10:15:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33016" started-at="2019-04-08T10:15:23Z" finished-at="2019-04-08T10:15:56Z">
+      <class name="tests.HomePageTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.HomePageTest@1ce92674]" name="beforeTest" is-config="true" duration-ms="9597" started-at="2019-04-08T15:45:23Z" finished-at="2019-04-08T15:45:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="givenTestFlow()[pri:0, instance:tests.HomePageTest@1ce92674]" name="givenTestFlow" duration-ms="23397" started-at="2019-04-08T15:45:33Z" description="Verify the product description by performing a stated flow on Ecommerce Website" finished-at="2019-04-08T15:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- givenTestFlow -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.HomePageTest@1ce92674]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-04-08T15:45:56Z" finished-at="2019-04-08T15:45:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- NeovaSolution_TestSuite -->
+</testng-results>
